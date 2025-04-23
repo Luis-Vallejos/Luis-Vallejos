@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis-Vallejos&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-Vallejos&theme=vue-dark&hide_border=false" width="410" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=luis-vallejos&theme=vue-dark" width="405"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vallejos&layout=compact&theme=vue-dark&hide_border=false" width="400" />
 </p>
 
